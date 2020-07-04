@@ -15,6 +15,7 @@ public CommandLineRunner clr()
 	{
 		System.out.println("hello java style");
 		System.out.println(Arrays.asList(args));
+		System.out.println("hello how r u");
 	};
 	return cl;
 }
